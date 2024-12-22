@@ -7,7 +7,7 @@
 
 ## Teclado
 
- ESC → KEYMAP MODE → NEXT
+ ESC → KEYMAP MODE → REACT
 
  ## Animal de ANIMAÇÃO 
 
